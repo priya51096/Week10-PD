@@ -1,0 +1,2 @@
+C:/Program[[:space:]]Files/Git/path/to/file filter=lfs diff=lfs merge=lfs -text
+weather_data_GER_2016.csv filter=lfs diff=lfs merge=lfs -text
